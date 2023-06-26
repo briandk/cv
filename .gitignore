@@ -55,3 +55,6 @@ danielak-cv.html
 
 # macOS files
 .DS_Store
+
+# temporary files from Microsoft Word
+~$*.docx
