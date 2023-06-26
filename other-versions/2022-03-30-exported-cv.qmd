@@ -1,0 +1,312 @@
+<table>
+<colgroup>
+<col style="width: 41%" />
+<col style="width: 12%" />
+<col style="width: 45%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>CONTACT INFO</th>
+<th></th>
+<th>EDUCATION</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td rowspan="2"><p>Brian A. Danielak</p>
+<p>6210 Belcrest Rd - Apt 1132</p>
+<p>Hyattsvile, MD 20782</p>
+<p><a href="mailto:briandanielak@gmail.com"><u>briandanielak@gmail.com</u></a></p>
+<p>845-901-4422</p></td>
+<td>Ph.D.</td>
+<td><p>Learning Sciences</p>
+<p>University of Maryland, College Park (2014)</p></td>
+</tr>
+<tr class="even">
+<td>B.A.</td>
+<td><p>Chemistry &amp; English</p>
+<p>University at Buffalo (2007)</p>
+<p><em>Summa Cum Laude, Phi Beta Kappa</em></p></td>
+</tr>
+</tbody>
+</table>
+
+# Publications
+
+## PEER-REVIEWED PUBLICATIONS
+
+Danielak, B.A. (2022). How Code Takes Shape: Studying a Student\'s Program Evolution. *Cognition and Instruction. (Acceptance Rate: 15%; Impact Factor: 3.216).* [[https://www.tandfonline.com/eprint/UICRPTND4WEBHJQ2ZD42/full?target=10.1080/07370008.2022.2044330]{.underline}](https://www.tandfonline.com/eprint/UICRPTND4WEBHJQ2ZD42/full?target=10.1080/07370008.2022.2044330)
+
+1.  Danielak, B. A. (2019). Deprecating Misconceptions through Context-Dependent Accounts of Productive Knowledge. *Proceedings of the 2019 ACM Conference on International Computing Education Research*, 91--100. [[https://doi.org/10.1145/3291279.3339424]{.underline}](https://doi.org/10.1145/3291279.3339424)
+
+    Silvia, D., O[']{dir="rtl"}Shea, B., & Danielak, B. A. (2019). A Learner-Centered Approach to Teaching Computational Modeling, Data Analysis, and Programming. In J. M. F. Rodrigues, P. J. S. Cardoso, J. Monteiro, R. Lam, V. V. Krzhizhanovskaya, M. H. Lees, J. J. Dongarra, & P. M. A. Sloot (Eds.), *Computational Science---ICCS 2019* (pp. 374--388). Springer International Publishing.
+
+2.  Gupta, A., Elby A., & Danielak, B.A. (2018). Exploring the Entanglement of Personal Epistemologies and Emotions in Students[']{dir="rtl"} Thinking. *Physical Review Physics Education Research* *14*(1) [[https://doi.org/10.1103/PhysRevPhysEducRes.14.010129]{.underline}](https://doi.org/10.1103/PhysRevPhysEducRes.14.010129).
+
+3.  Danielak, B. A., Gupta, A., & Elby, A. (2014). Marginalized identities of sense-makers: Reframing engineering student retention. *Journal of Engineering Education, 103*(1), 8--44. [[http://dx.doi.org/10.1002/jee.20035]{.underline}](http://dx.doi.org/10.1002/jee.20035) *(Impact Factor: 1.925)*
+
+4.  Danielak, B. A., Mechtley, A., Berland, M., & Lyons, L. (2014). MakeScape lite: A prototype learning environment for making and design. *In Proceedings of the 2014 Conference on Interaction Design and Children* (pp. 229--232). DOI: [[http://doi.org/10.1145/2593968.2610459]{.underline}](http://doi.org/10.1145/2593968.2610459) *(Acceptance Rate: 30%)*
+
+5.  Danielak, B. A., & Doane, W. E. J. (2014). Studying students[']{dir="rtl"} early-stage software design practices. In *Proceedings of the 11th International Conference of the Learning Sciences*. Boulder, Colorado, USA: International Society of the Learning Sciences. *(Acceptance Rate: 30%)*
+
+6.  Danielak, B. A., Gupta, A., & Elby, A. (2010). The marginalized identities of sense-makers: Reframing engineering student retention. In *Proceedings of the 40th Annual Frontiers in Education (FIE) Conference.* Washington, D.C. DOI: [[http://doi.org/10.1109/FIE.2010.5673158]{.underline}](http://doi.org/10.1109/FIE.2010.5673158)
+
+7.  Gupta, A., Danielak, B. A., & Elby, A. (2010). Understanding students[']{dir="rtl"} difficulties in terms of coupled epistemological and affective dynamics. *In Proceedings of the 40th Annual Frontiers in Education (FIE) Conference.* DOI: [[http://doi.org/10.1109/FIE.2010.5673256]{.underline}](http://doi.org/10.1109/FIE.2010.5673256)
+
+# Grant Experience
+
+1.  University of Maryland Introduction to Engineering Design Teaching Innovation Grant. (\$33,950). 2020 Co-Principal Investigator.
+
+<!-- -->
+
+8.  Robust Descriptions of Faculty Teaching Practice at Scale (\$1,386,566; NSF ECR; not funded). 2015. Grant co-author.
+
+9.  *Transdown*: A Lightweight, Markdown-Inspired Syntax for Qualitative Data Transcripts (\$750). 2014. Innovation Grant from the Physics Education Research Topical Group of the American Association of Physics Teachers. Principal Investigator. [[http://transdown.org]{.underline}](http://transdown.org)
+
+10. An application-based learning approach to introductory C programming language courses (\$199,354.00; *funded*). NSF DUE 1245745. Grant co-author.
+
+# Work Experience
+
+## LECTURER
+
+*University of Maryland -- College Park*
+
+August 2019--Present
+
+> I work as part of the university's Keystone Program in the A. James Clark School of Engineering. I teach Introduction to Engineering Design: a groupwork-focused course where teams of students develop autonomous robots. I also teach Engineering Dynamics, the study of forces and motion.
+
+## SOFTWARE ENGINEERING INSTRUCTOR  {#software-engineering-instructor}
+
+*FullStack Academy of Code* (https://www.fullstackacademy.com/)
+
+October 2018--August 2019
+
+> FullStack Academy is a coding bootcamp that trains students to become web developers and software engineers through a 13-week immersive on-site program. The curriculum covers route handling, database layers, API design, component-based user interface design, and core topics in data structures and algorithms. I taught students and designed curricular materials.
+
+## SOFTWARE ENGINEER
+
+*Reaktor Inc.* ([[https://www.reaktor.com/]{.underline}](https://www.reaktor.com/))
+
+December 2017--August 2018
+
+> Reaktor is a software consulting firm with offices in Helsinki, Amsterdam, Dubai, Tokyo, and New York. As a software engineer, I developed cutting-edge web applications for our clients. I worked across the entire software stack for the project, from client-side user interface code to server-side API design.
+
+## RESEARCH ASSOCIATE
+
+*The Concord Consortium* ([[https://concord.org]{.underline}](https://concord.org)) *InquirySpace 2*
+
+*May 2017---November 2017, Chad Dorsey (PI)*
+
+> The InquirySpace 2 project puts real-time sensors and powerful, free data analysis software in the hands of high school students. Its aim is to teach students design thinking for experiments, so they're equipped to pursue their own questions and laboratory experiments. My responsibilities included writing and reviewing curricula, as well as collecting and analyzing screencasts of students' work in the classroom. We ultimately used the data from those screencasts---as well as results from real-time log analytics while students work---to develop research accounts of how students' knowledge progresses as they learn experimental design.
+
+## POST-DOCTORAL RESEARCH ASSOCIATE
+
+*Department of Computational Mathematics, Science, and Engineering (CMSE)*
+
+*2015--May 2017, Michigan State University, Brian O'Shea Ph.D. (PI)*
+
+> I worked with Brian O'Shea to develop CMSE's flagship Introduction to Computational Modeling course. This course serves as a programming-based introduction to how STEM practitioners create, evaluate, and refine models through computation. We designed the course to be open to any major at the university---not strictly STEM majors. It requires no prior programming experience, and it includes multidisciplinary modeling examples from cellular biology; ecology; kinematics; agent-based economics and social behavior; and the digital humanities. My responsibilities included designing course curricula, teaching the course, and conducting rigorous learning science research on the course.
+
+*Data Explorer and Assessment Resources for Physics Faculty (DEAR-Faculty)*
+
+*2014--2015, American Association of Physics Teachers, Sarah McKagan (PI)*
+
+> This project is built around a web portal where physics instructors can learn about research-validated assessments and find out how to use them in their courses. For this project, I developed a software system to automatically create assessment-specific implementation guides. I also conducted user interviews with faculty to understand how we can tune the database and its front-end to meet their needs.
+
+*Learning Ethnographies of New Engineers (LENE), 2014, Northwestern University*
+
+*Reed Stevens Ph.D. (PI) and Kevin O'Connor, Ph.D. (Co-PI)*
+
+> LENE tried to understand what new engineers know and learn in their first six months in industry. We developed case studies to explore how what new engineers must learn to do on the job aligns (or doesn[']{dir="rtl"}t align) with what they learned to do when they were students. My role was lead ethnographer: I identified and followed recent engineering graduates, observing them at work and conducting interviews with them to develop detailed cases of their development.
+
+*MakeScape, 2013 -- 2014, University of Wisconsin--Madison*
+
+*Matthew Berland Ph.D. (PI) and Leilah Lyons, Ph.D. (Co-PI)*
+
+> I co-designed an interactive game-based museum environment to support students' design thinking. Specifically, I worked with game designers and artists to develop the conceptual architecture and intended learning outcomes of the game. And, I worked with software engineers to design and implement specifications to collect in-game telemetry data. I also led weekly meetings of the Complex Play Lab.
+
+*Learning Games PlayData Consortium, 2014 , University of Wisconsin--Madison*
+
+*Matthew Berland Ph.D. (PI) and Kurt Squire, Ph.D. (Co-PI) & Richard Halverson Ph.D. (Co-PI)*
+
+> I co-designed the frameworks for collecting, analyzing, and presenting in-game telemetry data. Working with software engineers, game designers, and learning science researchers I helped refine telemetry data specifications and develop visualization and statistical analysis tools. I also planned and coordinated meetings and workshops for key stakeholders on the project. I also wrote a book on how to analyze telemetry data from learning games: [[https://brian-danielak.gitbook.io/makescape-adage-gitbook/]{.underline}](https://brian-danielak.gitbook.io/makescape-adage-gitbook/)
+
+## NSF DISCIPLINARY EXPERT IN SCIENCE EDUCATION FELLOW
+
+*Exploring Students' Understanding of Modularized Code, 2011--2013, University of Maryland--College Park*
+
+> Using my fellowship, I proposed an independent project that became the basis of my dissertation. I ethnographically observed an Introductory Programming for Engineers course. I arranged, conducted, transcribed, and analyzed ethnographic interviews with electrical engineering students. I co-developed a system to automatically capture snapshot histories of students' codebases. I also developed open-source tools for visualizing code evolution over time: *CodeTimeline* and *RepoStatistics*
+
+# Software Development Experience
+
+## OPEN-SOURCE PROJECTS
+
+1.  *Transcriptase*: *A Powerful Open-Source Editor for Transcription (2018)*. [[Website]{.underline}](https://transcriptase.launchaco.com/); [[Github]{.underline}](https://github.com/briandk/transcriptase); [[Mac App Store]{.underline}](https://itunes.apple.com/us/app/transcriptase/id1425667336?mt=12)
+
+<!-- -->
+
+11. *Transdown: A Lightweight Syntax for Qualitative Transcript Data* *(2015).* [[Transdown]{.underline}](http://transdown.org/) is [[Markdown]{.underline}](http://daringfireball.net/projects/markdown/syntax) for transcripts. Inspired by both [[Markdown]{.underline}](http://daringfireball.net/projects/markdown/syntax) and [[Fountain]{.underline}](http://fountain.io/), Transdown lets qualitative researchers transcribe data in a simple, human-readable plaintext markup format that can be rendered and styled as HTML. [[http://transdown.org]{.underline}](http://transdown.org)
+
+12. *Analyzing Data with ADAGE: A Guided Tour of Mining Data from a Game for Learning (2014)*. [[http://capbri.gitbooks.io/makescape-adage-gitbook/]{.underline}](http://capbri.gitbooks.io/makescape-adage-gitbook/)
+
+13. *Code­Time­line: A Visual Browser for Code File History (2012).* CodeTimeline works like an interactive VCR for playing back the history of a git-versioned source code file. Run from the command line, it presents a browser-based, zoomable, scrollable, visual interface to a file's history. [[https://github.com/briandk/gitvisualizations]{.underline}](https://github.com/briandk/gitvisualizations)
+
+14. *RepoStatistics: Small Multiple Visualizations of Git Repository History (2012)*. RepoStatistics gives programming instructors a visual dashboard representation of students' progress on code. [[https://github.com/briandk/gitvisualizations]{.underline}](https://github.com/briandk/gitvisualizations)
+
+15. *gra­novaGG*: *Graph­i­cal Analy­sis of Vari­ance Using ggplot2 (2012)*. GranovaGG creates plots that enable visual inference and statistical exploration of Omnibus *F*-tests, Dependent Sample *t-*tests, and contrasts. [[http://cran.r-project.org/web/packages/granovaGG/index.html]{.underline}](http://cran.r-project.org/web/packages/granovaGG/index.html)
+
+## PROGRAMMING LANGUAGES and FRAMEWORKS
+
+<table>
+<colgroup>
+<col style="width: 31%" />
+<col style="width: 68%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Language / Framework</th>
+<th>Associated Projects</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Python, NumPy, &amp; Pandas</td>
+<td><ul>
+<li><p><a href="http://cmse201.com"><u>Introduction to Computational Modeling</u></a></p></li>
+<li><p><a href="https://brian-danielak.gitbook.io/makescape-adage-gitbook/"><u>Analyzing Data with ADAGE</u></a></p></li>
+<li><p><a href="https://github.com/briandk/gitvisualizations"><u>CodeTimeline</u></a></p></li>
+<li><p><a href="https://github.com/briandk/gitvisualizations"><u>RepoStatistics</u></a></p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>R</td>
+<td><ul>
+<li><p><a href="https://github.com/briandk/granovagg"><u>granovaGG</u></a></p></li>
+<li><p><a href="https://github.com/briandk/gitvisualizations"><u>RepoStatistics</u></a></p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>TypeScript, NodeJS, React, Webpack &amp; Electron</td>
+<td><ul>
+<li><p><a href="https://transcriptase.launchaco.com/"><u>Transcriptase</u></a></p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>JavaScript</td>
+<td><ul>
+<li><p><a href="https://transcriptase.launchaco.com/"><u>Transcriptase</u></a>,</p></li>
+<li><p><a href="http://transdown.org/"><u>Transdown</u></a>,</p></li>
+<li><p><a href="https://github.com/briandk/gitvisualizations"><u>CodeTimeline</u></a></p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+# Talks and Invited Presentations
+
+Danielak, B. A., O'Shea, B. W., & Colbry, D. (2016). Using Principles from the Learning Sciences to Develop a Data-Driven Introduction to Computational Modeling. To be presented at the 2016 International Conference on Computational Science Workshop on Teaching Computational Science
+
+Danielak, B. A. (2015) Using Code Snapshots and Interviews to Understand How Students Design Computer Programs. Presented at Michigan State University. *Invited Talk*
+
+16. Elby, A., Danielak, B. A., & Gupta, A. (2012). *Entangled Identity and Epistemology Meet Electromagnetism: The Case of Michael*. Contributed Presentation presented at the Summer Meeting of the American Association of Physics Teachers (AAPT), Philadelphia, PA (USA).
+
+17. Danielak, B. A. (2012). Using Fine-Grained Code and Fine-Grained Interviews to Understand How Students Learn to Program. University of New Mexico -- Department of Computer Science Colloquium. *Invited Talk*
+
+18. Pruzek, R. M., Danielak, B. A., Bryer, J., & Doane, W. E. J. (2011). *Some New Developments in Graphics for Comparing Groups*. Presented at the Society for Multivariate Experimental Psychology, Norman, Oklahoma, USA.
+
+19. Danielak, B. A., & Svihla, V. (2011). Why early courses matter for design-focused engineering capstones. *Presented at the 41st Annual Meeting of the Jean Piaget Society*, Berkeley, CA.
+
+20. Danielak, B. A. (2011). *Do We Value Sense-Makers in Science Education?* Presented at Bennington College, Bennington, VT. *Invited Talk*
+
+21. Danielak, B. A. (2010). Using R to Assess Mathematical Sense-Making in Introductory Physics Courses. Presented at the 2010 UseR! Statistics Conference, Gaithersburg, MD
+
+22. Danielak, B. A. (2010). *Identity, Culture, and Sense-Making*. Presented at the 2010 American Association of Physics Teachers Winter Meeting, Washington, D.C.
+
+<table>
+<colgroup>
+<col style="width: 13%" />
+<col style="width: 86%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Year</th>
+<th>Award Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2008–2013</td>
+<td><p>National Science Foundation Fel­low</p>
+<p><em>Dis­ci­pli­nary Experts in Sci­ence Edu­ca­tion Pro­gram, (NSF DRL 0733613)</em></p></td>
+</tr>
+<tr class="even">
+<td>2011</td>
+<td><p>Doctoral Consortium Participant</p>
+<p><em>2011 International Computing Education Research Workshop (ICER)</em></p></td>
+</tr>
+<tr class="odd">
+<td>2008</td>
+<td><p>NSF Grad­u­ate Research Fel­low­ship in the His­tory of Sci­ence</p>
+<p><em>Hon­or­able Men­tion</em></p></td>
+</tr>
+<tr class="even">
+<td>2007–2008</td>
+<td><p>Owen Fel­lowship in the His­tory of Sci­ence</p>
+<p><em>Johns Hop­kins Uni­ver­sity</em></p></td>
+</tr>
+<tr class="odd">
+<td>2007</td>
+<td><p>Outstanding Senior Award - Chemistry</p>
+<p><em>University at Buffalo</em></p></td>
+</tr>
+<tr class="even">
+<td>2007</td>
+<td><p>Out­stand­ing Senior Award - English</p>
+<p><em>University at Buffalo</em></p></td>
+</tr>
+<tr class="odd">
+<td>2007</td>
+<td><p>Renaissance Scholar Award</p>
+<p><em>University at Buffalo</em></p></td>
+</tr>
+<tr class="even">
+<td>2007</td>
+<td>Samuel P. Capen Award for Inter­dis­ci­pli­nary Excel­lence</td>
+</tr>
+<tr class="odd">
+<td>2003–2007</td>
+<td><p>Dis­tin­guished Hon­ors Scholar</p>
+<p><em>Uni­ver­sity at Buf­falo</em></p></td>
+</tr>
+<tr class="even">
+<td>2007</td>
+<td>Tufariello Award for Out­stand­ing Excel­lence in Chem­istry</td>
+</tr>
+<tr class="odd">
+<td>2006</td>
+<td>Elected to Phi Lambda Upsilon Chem­istry Honor Soci­ety</td>
+</tr>
+<tr class="even">
+<td>2006</td>
+<td>Elected to Phi Beta Kappa</td>
+</tr>
+<tr class="odd">
+<td>2006</td>
+<td>The George and Sheila Nan­col­las Phys­i­cal Chem­istry Schol­ar­ship</td>
+</tr>
+<tr class="even">
+<td>2005</td>
+<td>The Amer­i­can Chem­i­cal Soci­ety Award for Excel­lence in Ana­lyt­i­cal Chem­istry</td>
+</tr>
+<tr class="odd">
+<td>2005</td>
+<td>The Grace Capen Award for Aca­d­e­mic Excel­lence</td>
+</tr>
+<tr class="even">
+<td>2004</td>
+<td>The CRC Hand­book Award for Excel­lence in Gen­eral Chem­istry</td>
+</tr>
+</tbody>
+</table>
+
+# Awards and Fellowships
