@@ -52,3 +52,6 @@ rsconnect/
 danielak-cv_files
 danielak-cv.pdf
 danielak-cv.html
+
+# macOS files
+.DS_Store
