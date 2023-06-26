@@ -1,47 +1,23 @@
-+--------------------------------------------------------------------------+-----------------------------------+---------------------------------------------+
-| CONTACT INFO                                                             |                                   | EDUCATION                                   |
-+==========================================================================+===================================+=============================================+
-| Brian A. Danielak                                                        | Ph.D.                             | Learning Sciences                           |
-|                                                                          |                                   |                                             |
-| 6210 Belcrest Rd - Apt 1132                                              |                                   | University of Maryland, College Park (2014) |
-|                                                                          |                                   |                                             |
-| Hyattsvile, MD 20782                                                     |                                   |                                             |
-|                                                                          |                                   |                                             |
-| [[briandanielak\@gmail.com]{.underline}](mailto:briandanielak@gmail.com) |                                   |                                             |
-|                                                                          |                                   |                                             |
-| 845-901-4422                                                             |                                   |                                             |
-+--------------------------------------------------------------------------+-----------------------------------+---------------------------------------------+
-| B.A.                                                                     | Chemistry & English               |                                             |
-|                                                                          |                                   |                                             |
-|                                                                          | University at Buffalo (2007)      |                                             |
-|                                                                          |                                   |                                             |
-|                                                                          | *Summa Cum Laude, Phi Beta Kappa* |                                             |
-+--------------------------------------------------------------------------+-----------------------------------+---------------------------------------------+
-
 # Publications
 
 ## PEER-REVIEWED PUBLICATIONS
 
-1.  **Danielak, B.A.**
-    (2022).
+1.  **Danielak, B.A.** (2022).
     How Code Takes Shape: Studying a Student's Program Evolution.
     *Cognition and Instruction. (Acceptance Rate: 15%; Impact Factor: 3.216).* [[https://www.tandfonline.com/eprint/UICRPTND4WEBHJQ2ZD42/full?target=10.1080/07370008.2022.2044330]{.underline}](https://www.tandfonline.com/eprint/UICRPTND4WEBHJQ2ZD42/full?target=10.1080/07370008.2022.2044330)
 
-2.  **Danielak, B .A.**
-    (2019).
+2.  **Danielak, B .A.** (2019).
     Deprecating Misconceptions through Context-Dependent Accounts of Productive Knowledge.
     *Proceedings of the 2019 ACM Conference on International Computing Education Research*, 91--100.
     [[https://doi.org/10.1145/3291279.3339424]{.underline}](https://doi.org/10.1145/3291279.3339424)
 
-3.  Silvia, D., O[']{dir="rtl"}Shea, B., & **Danielak, B .A.**
-    (2019).
+3.  Silvia, D., O[']{dir="rtl"}Shea, B., & **Danielak, B .A.** (2019).
     A Learner-Centered Approach to Teaching Computational Modeling, Data Analysis, and Programming.
     In J. M. F. Rodrigues, P. J. S. Cardoso, J. Monteiro, R. Lam, V. V. Krzhizhanovskaya, M. H. Lees, J. J. Dongarra, & P.
     M. A. Sloot (Eds.), *Computational Science---ICCS 2019* (pp. 374--388).
     Springer International Publishing.
 
-4.  Gupta, A., Elby A., & **Danielak, B.A.**
-    (2018).
+4.  Gupta, A., Elby A., & **Danielak, B.A.** (2018).
     Exploring the Entanglement of Personal Epistemologies and Emotions in Students[']{dir="rtl"} Thinking.
     *Physical Review Physics Education Research* *14*(1) [[https://doi.org/10.1103/PhysRevPhysEducRes.14.010129]{.underline}](https://doi.org/10.1103/PhysRevPhysEducRes.14.010129).
 
@@ -77,14 +53,9 @@
 # Grant Experience
 
 1.  University of Maryland Introduction to Engineering Design Teaching Innovation Grant. (\$33,950). 2020 Co-Principal Investigator.
-
-<!-- -->
-
-8.  Robust Descriptions of Faculty Teaching Practice at Scale (\$1,386,566; NSF ECR; not funded).
-    2015. Grant co-author.
-9.  *Transdown*: A Lightweight, Markdown-Inspired Syntax for Qualitative Data Transcripts (\$750).
-    2014. Innovation Grant from the Physics Education Research Topical Group of the American Association of Physics Teachers. Principal Investigator. [[http://transdown.org]{.underline}](http://transdown.org)
-10. An application-based learning approach to introductory C programming language courses (\$199,354.00; *funded*). NSF DUE 1245745. Grant co-author.
+2.  Robust Descriptions of Faculty Teaching Practice at Scale (\$1,386,566; NSF ECR; not funded).2015. Grant co-author.
+3.  *Transdown*: A Lightweight, Markdown-Inspired Syntax for Qualitative Data Transcripts (\$750). 2014. Innovation Grant from the Physics Education Research Topical Group of the American Association of Physics Teachers. Principal Investigator. [[http://transdown.org]{.underline}](http://transdown.org)
+4.  An application-based learning approach to introductory C programming language courses (\$199,354.00; *funded*). NSF DUE 1245745. Grant co-author.
 
 # Work Experience
 
@@ -246,8 +217,7 @@ December 2017--August 2018
 Using Principles from the Learning Sciences to Develop a Data-Driven Introduction to Computational Modeling.
 To be presented at the 2016 International Conference on Computational Science Workshop on Teaching Computational Science
 
-**Danielak, B .A.**
-(2015) Using Code Snapshots and Interviews to Understand How Students Design Computer Programs.
+**Danielak, B .A.** (2015) Using Code Snapshots and Interviews to Understand How Students Design Computer Programs.
 Presented at Michigan State University.
 *Invited Talk*
 
@@ -256,8 +226,7 @@ Presented at Michigan State University.
     *Entangled Identity and Epistemology Meet Electromagnetism: The Case of Michael*.
     Contributed Presentation presented at the Summer Meeting of the American Association of Physics Teachers (AAPT), Philadelphia, PA (USA).
 
-17. **Danielak, B .A.**
-    (2012).
+17. **Danielak, B .A.** (2012).
     Using Fine-Grained Code and Fine-Grained Interviews to Understand How Students Learn to Program.
     University of New Mexico -- Department of Computer Science Colloquium.
     *Invited Talk*
@@ -271,18 +240,15 @@ Presented at Michigan State University.
     Why early courses matter for design-focused engineering capstones.
     *Presented at the 41st Annual Meeting of the Jean Piaget Society*, Berkeley, CA.
 
-20. **Danielak, B .A.**
-    (2011).
+20. **Danielak, B .A.** (2011).
     *Do We Value Sense-Makers in Science Education?* Presented at Bennington College, Bennington, VT. *Invited Talk*
 
-21. **Danielak, B .A.**
-    (2010).
+21. **Danielak, B .A.** (2010).
     Using R to Assess Mathematical Sense-Making in Introductory Physics Courses.
     Presented at the 2010 UseR!
     Statistics Conference, Gaithersburg, MD
 
-22. **Danielak, B .A.**
-    (2010).
+22. **Danielak, B .A.** (2010).
     *Identity, Culture, and Sense-Making*.
     Presented at the 2010 American Association of Physics Teachers Winter Meeting, Washington, D.C.
 
