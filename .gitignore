@@ -47,3 +47,8 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Quarto Output Files
+danielak-cv_files
+danielak-cv.pdf
+danielak-cv.html

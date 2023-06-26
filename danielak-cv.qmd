@@ -1,0 +1,21 @@
+---
+title: "Curriculum Vitae"
+author: "Brian A. Danielak"
+date: 2023-06-23
+date-format: long
+format:
+  pdf: default
+  html: default
+  docx: default
+bibliography: "danielak-cv-bibliography.bib"
+csl: "apa-cv.csl"
+# The below option will print all references in the bibliography, even if they're not mentioned in the text itself
+nocite: |
+  @*
+editor: visual
+---
+
+# References
+
+::: {#refs}
+:::
